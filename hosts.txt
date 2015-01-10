@@ -1,0 +1,19 @@
+####default user & password for host that without setting username&password####
+default-user=yourname
+default-pass=yourpassword
+
+####your hosts list#################
+#split hostname & host info by '='
+#split ip & user & password by whitespace
+####################################
+
+#deploy server
+deploy=1.1.1.1 username password
+
+#qiwa servers, will use default username & password
+qiwa-1=2.2.2.2
+qiwa-2=3.3.3.3
+
+#qian tang jiang servers, will use default username & password
+qtj-1=4.4.4.4
+qtj-2=5.5.5.5
