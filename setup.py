@@ -14,6 +14,7 @@ OPTIONS = {
         'LSUIElement': True,
     },
     'packages': ['rumps'],
+    'iconfile':'iSSH.icns'
 }
 
 setup(
