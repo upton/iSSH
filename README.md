@@ -10,7 +10,7 @@ require python 2.7
 ```
 $> pip install rumps py2app
 $> git clone https://github.com/upton/iSSH
-$> cd /path/to/iSSH
+$> cd iSSH
 $> python setup.py py2app
 ```
 You can find the `iSSH.app` in `dist` folder if without error.  
