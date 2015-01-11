@@ -1,5 +1,5 @@
 # iSSH
-Auto SSH login managing app for MAC OSX by python &amp; [rumps](https://github.com/jaredks/rumps).
+Auto SSH login managing app for MAC OSX by python. refer to [ssh-auto-login](https://github.com/liaohuqiu/ssh-auto-login), [rumps](https://github.com/jaredks/rumps).
 
 ===
 How to get it:
