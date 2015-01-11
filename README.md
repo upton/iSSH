@@ -1,10 +1,10 @@
 # iSSH
-Auto SSH login managing app for MAC OSX by python. refer to [ssh-auto-login](https://github.com/liaohuqiu/ssh-auto-login), [rumps](https://github.com/jaredks/rumps).
+Auto SSH login managing app for Mac OSX by python. refer to [ssh-auto-login](https://github.com/liaohuqiu/ssh-auto-login), [rumps](https://github.com/jaredks/rumps).
 
 ===
 How to get it:
 ===
-1. download the mac osx app binary [iSSH.zip](http://www.lexuan.net/good/files/iSSH.zip)
+1. directly download the Mac OSX app [iSSH.zip](http://www.lexuan.net/good/files/iSSH.zip)
 2. build from src:
 require python 2.7
 ```
