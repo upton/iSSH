@@ -1,5 +1,6 @@
 # iSSH
 Auto SSH login managing app for Mac OSX by python. refer to [ssh-auto-login](https://github.com/liaohuqiu/ssh-auto-login), [rumps](https://github.com/jaredks/rumps).
+The app can easy manage your server list, and display on mac statusbar to easy use. 
 
 ===
 How to get it:
@@ -14,3 +15,8 @@ $> cd iSSH
 $> python setup.py py2app
 ```
 You can find the `iSSH.app` in `dist` folder if without error.  
+
+===
+screenshot:
+===
+
